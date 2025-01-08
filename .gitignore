@@ -3,6 +3,8 @@
 *.sln
 .run/*
 **/obj/**
+.vs/
+
 
 out/
 !**/src/main/**/out/
